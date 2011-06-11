@@ -1,0 +1,6 @@
+This simple project is an array of LEDs.  Populated with UV LEDs, such a board
+might be useful as a PCB exposer for photosensitive PCB stock.
+
+I am considering having this as a parametric design: Enter the dimensions
+of the board you want, and a Python script will generate the schematic and
+layout to suit those parameters.
